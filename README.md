@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <div>
-<h2 align="center">Hi 👋, I am Binod.</h2>
+<h2 align="center">Hi 👋, I am Md Najamuddin .</h2>
   
 <hr>
   <h2 align="center">A passionate Full Stack Node Developer</h2>
@@ -15,22 +15,22 @@
 
  🌱 I’m currently learning **Node.js**.
   <br><br>
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1Rx3cuPvV2w_WY0wdG6UgzUyxHBjWqNFm/view?usp=share_link">Resume</a>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/1pFBLcIq9oCwAG0Wyzb2uWvub67yI0HNy/view?usp=sharing">Resume</a>
   <br><br>
- 👨‍💻  Know more about me <a href ="https://BinodOkheda.github.io/">Portfolio</a>
+ 👨‍💻  Know more about me <a href ="https://github.com/Najamuddin786">Portfolio</a>
   <br><br>
- 😄 All of my projects are available at <a href="https://github.com/BinodOkheda">My Github Repositories</a>
+ 😄 All of my projects are available at <a href="https://github.com/Najamuddin786">My Github Repositories</a>
   <br><br>
- 💬 Ask me about **HTML, CSS, JavaScript, SQL, Node.js**
+ 💬 Ask me about **HTML, CSS, JavaScript,React.js, SQL, Node.js**
   <br><br>
- ⚡ How to reach me binodokheda3@gmail.com
+ ⚡ How to reach me 786mdnajamuddin@gmail.com
   
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
   
 <h1 align="center">Let's Get Connected</h1>
 <div align="center">
- <a  href="https://www.linkedin.com/in/binod-okheda-504931243/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:binodokheda3@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <a  href="https://www.linkedin.com/in/md-najamuddin-77a100234" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:786mdnajamuddin@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 <br />
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
